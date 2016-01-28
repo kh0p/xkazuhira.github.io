@@ -1,0 +1,28 @@
+# Site settings
+title: Kamil Zak 
+description: 'Tao i Zen w grach'
+url: 'http://xkazuhira.github.io/' 
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+
+author:
+  name: 'Kamil Zak'
+  email: xkazuhira@outlook.jp
+  twitter_username: defm03
+  github_username:  xkazuhira
+  linkedin_username:  defm03
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /blog/:year/:month/:day/:title
+markdown: kramdown
+highlighter: pygments
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
