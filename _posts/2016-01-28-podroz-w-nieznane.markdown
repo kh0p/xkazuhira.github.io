@@ -1,10 +1,9 @@
 ---
-title: Podróż w nieznane
+layout: post
+title: "Podróż w nieznane"
 date: 2016-01-28 18:36:24
-tags:
-- Blog
-- Informacje
-description: "Vermis sum. Jest jednak kilka rzeczy które chciabym przekazać i należą do nich moje motywacje."
+categories: Blog Informacje
+tags: [Blog,Informacje]
 ---
 
 Jestem niedoświadczonym programistą który uczy się by poszerzać rejon własnej ekspertyzy, początkującym rysownikiem który próbuje tworzyć przestrzenne reprezentacje odczuć, czy filozofem (co jest przymiotem ludzkiego organizmu). Próbuję się rozwijać w tych przedmiotach, ale przede wszystkim staram się szukać nazw, struktur oraz innych reprezentacji myślowych tego co mnie fascynuje i interesuje. To rzeczy która także należy do każdej z osób - poszukiwanie zrozumienia. Chcę was przywitać. Jestem Kamil i jestem zwykłą osobą, która chce szczerze badać uczucia gier.
