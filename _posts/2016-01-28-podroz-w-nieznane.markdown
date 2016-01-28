@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Podróż w nieznane"
+title: "W nieznane"
 date: 2016-01-28 18:36:24
 categories: Blog Informacje
 tags: [Blog,Informacje]
